@@ -34,11 +34,9 @@ The name reflects the project's philosophy:
 
 
 [Page 1] Entrance
-
 <img width="1093" height="839" alt="image" src="https://github.com/user-attachments/assets/ed9eae6e-5239-45e1-a1ab-3abed61470bb" />
 
 [Page 1] Strong password 
-
 <img width="798" height="630" alt="image" src="https://github.com/user-attachments/assets/29a9b850-78a1-4de5-96cb-eab9a09142a5" />
 
 2. After entering the password, you are taken to the main screen.
@@ -50,7 +48,6 @@ The name reflects the project's philosophy:
 <img width="1112" height="841" alt="image" src="https://github.com/user-attachments/assets/ed229fbb-721a-477e-bcf4-8f2e189b92ec" />
 
 [Page 2] Encrypt mode
-
 <img width="1122" height="782" alt="image" src="https://github.com/user-attachments/assets/267fb3e3-121d-4e2a-b95f-c7de3358d01b" />
 
 From "Hello World!" we haves:
