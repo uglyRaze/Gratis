@@ -55,6 +55,7 @@ The name reflects the project's philosophy:
 
 From "Hello World!" we haves:
 [SECURED]d67c25a0038a45a44b1b0ec9d73da500507edf52e160923bd89b7485e3cdccfa38576a339593c126e60beb003928d416b7f4ef78d68d11ce00
+
 [Page 2] Decrypt mode
 <img width="1235" height="785" alt="image" src="https://github.com/user-attachments/assets/34186803-e3e2-4950-8936-5d89a7d77491" />
 From cipher we haves again "Hello World!"
