@@ -7,7 +7,7 @@ A free and open-source file encryption tool using AES-256-GCM + scrypt
 
 The name reflects the project's philosophy:
 
-- No enforced password rules — you can use "1" if you want, but security is then your responsibility.
+- No enforced password rules - you can use "1" if you want, but security is then your responsibility.
 - No hidden keys, backdoors, or centralized control.
 - No telemetry.
 - The tool is free and open for anyone to use, modify, and distribute.
@@ -34,7 +34,7 @@ It emphasizes freedom, simplicity, and user control:
 - Cryptographically secure password generator (random bytes)
 - File selection (only `.txt` files are supported)
 - Separate tabs for Encrypt / Decrypt modes
-- Double encryption protection — if a file already contains `[SECURED]` at the beginning, encryption is blocked
+- Double encryption protection - if a file already contains `[SECURED]` at the beginning, encryption is blocked
 - Cross-platform (Windows / Linux / macOS)
 
 ---
@@ -83,7 +83,7 @@ From cipher we have again "Hello World!"
 - scrypt protects against brute-force attacks by being memory-hard.
 - No password is stored anywhere.
 - If you forget your password, the data cannot be recovered.
-- Weak passwords reduce security — use strong passwords for sensitive data.
+- Weak passwords reduce security - use strong passwords for sensitive data.
 
 ---
 
